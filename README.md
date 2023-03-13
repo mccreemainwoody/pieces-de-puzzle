@@ -8,5 +8,5 @@ Dans la majorité des cas, ce sont des projets que j'ai développé pour facilit
 Considérez ces projets comme des petits bouts de code que j'ai crée sur l'instant pour résoudre des petits problèmes pratiques. :p
 
 ## Liste des projets
-- [Autodoc](python-autodoc/README.md)
+- [Autodoc](python-autodoc)
   - Un petit morceau de code qui automatise la création de lettres de motivation (notamment pour des candidatures spontanés).
